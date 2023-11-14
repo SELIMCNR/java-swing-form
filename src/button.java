@@ -32,5 +32,6 @@ public class button {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
         frame.setLayout(null);
+     
     }
 }

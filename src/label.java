@@ -6,13 +6,16 @@ public class label {
     
     public static void main(String[] args){
         JFrame frame = new JFrame();
-        
+
         //Label 
         JLabel label = new JLabel();
+       
         
         label.setText("Yazı kısmı");
         label.setBounds(100,50,150,30);
 
+     
+      
         JButton btn = new JButton();
         btn.setText("Tıkla");
         btn.setBounds(100,100,100,30);

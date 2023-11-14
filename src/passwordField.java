@@ -31,5 +31,6 @@ public class passwordField {
         frame.setSize(400,400);
         frame.setLayout(null);
         frame.setVisible(true);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
